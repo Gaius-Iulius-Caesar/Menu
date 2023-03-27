@@ -1,3 +1,3 @@
-module sample-app
+module Menu
 
 go 1.20
